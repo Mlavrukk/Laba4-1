@@ -1,0 +1,23 @@
+﻿"Laba4-1.exe" (Win32). Загружено "C:\Users\marGO.LAPTOP-CEGVK39N\source\repos\Laba4-1\x64\Debug\Laba4-1.exe". Символы загружены.
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\ole32.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\ucrtbase.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\combase.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\gdi32.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\win32u.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\gdi32full.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\msvcp_win.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\user32.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"Laba4-1.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". 
+Поток 0x62f8 завершился с кодом 0 (0x0).
+Поток 0x4ba0 завершился с кодом 3221225786 (0xc000013a).
+Поток 0x4f1c завершился с кодом 3221225786 (0xc000013a).
+Поток 0x2d2c завершился с кодом 3221225786 (0xc000013a).
+Программа "[26620] Laba4-1.exe" завершилась с кодом 3221225786 (0xc000013a).
