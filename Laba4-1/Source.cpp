@@ -319,64 +319,7 @@ Set SymDif(Set& a, Set& b) {
     return union_set(res1, res2);
 }
 
-   //Set SymmenricDifference(Set& a, Set& b) {
-   //     Set result;
-   //     result = union_set(a, b);
-   //     int n;
-   //     std::vector<int> elements;
-   //     n = a.TreeCount();
-   //     elements = a.GetAllKeys();
-   //     for (int i = 0; i < n; i++) {
-   //         if (elements[i]) {
-   //             result.erase(elements[i]);
-   //         }
-   //     }
-   //     if (a.TreeCount() < b.TreeCount()) {
-   //         n = a.TreeCount()+ b.TreeCount;
-   //      elements = a.GetAllKeys();
-   //         for (int i = 0; i < b.TreeCount(); i++) {
-   //             if (elements[i]) {
-   //                 result.erase(elements[i]);
-   //             }
-   //         }
-   //     
-   //     else {
-   //         n = b.TreeCount();
-   //         elements = b.GetAllKeys();
-   //         for (int i = 0; i < b.TreeCount(); i++) {
-   //             if (elements[i]) {
-   //                 result.erase(elements[i]);
-   //             }
-   //         }
-   //     }
-   //     return result;
-   // }
-
-    //void task()
-    //{
-    //	Set<int> first;
-    //	for (int i = 1; i < 5; i++)
-    //		first.insert(i);
-    //
-    //	Set<int> second;
-    //	for (int i = 4; i < 7; i++)
-    //		second.insert(i);
-    //
-    //	auto res = operations(first, second);
-    //	auto res_first = res.first;
-    //	auto res_second = res.second;
-    //
-    //	std::cout << "unification ";
-    //	for (int i = 0; i < res_first.size(); i++)
-    //	{
-    //		std::cout << res_first[i] << " ";
-    //	}
-    //	std::cout << "difference ";
-    //	for (int i = 0; i < res_second.size(); i++)
-    //	{
-    //		std::cout << res_second[i] << " ";
-    //	}
-    //}
+  
 
 
     size_t lcg() {
